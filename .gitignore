@@ -1,6 +1,13 @@
 *.class
+*.pyc
+
+# Project Files #
+*.iml
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
+# Build Directories #
+target
